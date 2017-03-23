@@ -33,7 +33,15 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 
+<<<<<<< HEAD
 
 master
 
 masetermasetermasetermasetermasetermasetermasetermasetermasetermasetermasetermaseter
+=======
+branch
+branchbranchbranchbranchbranchbranch
+branchbranch
+branchbranchbranchbranchbranchbranch
+branchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranch
+>>>>>>> branch1
