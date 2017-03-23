@@ -33,18 +33,19 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 
-<<<<<<< HEAD
+
 
 master
 
 masetermasetermasetermasetermasetermasetermasetermasetermasetermasetermasetermaseter
-=======
+
 branch
 branchbranchbranchbranchbranchbranch
 branchbranch
 branchbranchbranchbranchbranchbranch
 branchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranchbranch
->>>>>>> branch1
+
+
 
 
 master
@@ -52,3 +53,9 @@ master
 2222222222222222222222
 22222222222222
 2222222222222222222
+=======
+2222222222222222222222222
+222222222222222222222222222
+22222222222222222222222
+22222222222222222
+>>>>>>> branch2
